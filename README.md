@@ -1,6 +1,6 @@
 ### Hi guy! nice to see you 👋
 
-<p>Welcome to my page! </br> I'm Quang Pham, Fullstack developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197473.svg" width="13"/> <b>Da Nang, VietNam</b></p>
+<p>Welcome to my page! </br> I'm Quang Pham, Fullstack developer from <b> Da Nang, VietNam <img src="https://www.flaticon.com/svg/static/icons/svg/197/197473.svg" width="13"/></b></p>
 <h3>🚀 My skills </h3>
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
